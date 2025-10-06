@@ -1,0 +1,14 @@
+Flask
+requests
+langchain
+pdfplumber
+faiss-cpu
+transformers
+sentence-transformers
+langchain-core
+langchain-experimental
+langchain-xai
+langchain-perplexity
+langchain-openai
+
+-e .
