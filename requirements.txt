@@ -1,14 +1,13 @@
 Flask
 requests
 langchain
+langchain-core
 pdfplumber
-faiss-cpu
-transformers
-sentence-transformers
+faiss
 langchain-core
 langchain-experimental
 langchain-xai
 langchain-perplexity
-langchain-openai
+sentence-transformers
 
--e .
+#-e .
