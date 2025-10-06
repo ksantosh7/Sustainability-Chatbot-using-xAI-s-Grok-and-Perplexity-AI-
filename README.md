@@ -37,7 +37,6 @@ The **PDF ChatBot** project lets users ask questions about the content of their 
 ## 🏁 Quickstart
 1. **Clone the repository**
 2. **Install dependencies**
-3. 
 3. **Set up environment:**
 
 - Place your PDFs in the `static/uploads` directory.
